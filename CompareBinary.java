@@ -21,7 +21,7 @@ class CompareBinary
       {
         if(data[j]==0)
         {x = x+1;}
-        else
+        else;
       }
       return x;
   }
@@ -32,7 +32,7 @@ class CompareBinary
     {
       if(data[k]==0)
       {y = y+1;}
-      else
+      else;
     }
     return y;
   }
